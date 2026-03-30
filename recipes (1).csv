@@ -1,0 +1,171 @@
+recipe,ingredients,allergens,calories,protein,carbs,fats
+Lemon Herb Chicken,chicken lemon herbs garlic oil salt,none,341,16,44,27
+Honey Glazed Carrots,carrots honey butter salt,dairy,308,32,70,40
+Spicy Beef Stew,beef chili pepper tomato carrots onion garlic,none,527,42,52,12
+Veggie Fried Rice,rice vegetables soy sauce garlic eggs,eggs soy,506,49,22,16
+Banana Oat Smoothie,banana oats milk honey,dairy,605,40,30,36
+Grilled Tilapia,tilapia lemon pepper garlic salt,none,697,31,16,21
+Cheesy Pasta,pasta cheese milk butter salt,dairy,663,19,58,28
+Tomato Basil Pasta,pasta tomato basil garlic olive oil,none,557,20,51,33
+Spinach Omelette,eggs spinach onion salt,eggs,739,43,12,18
+Fruit Yogurt Bowl,yogurt berries honey nuts,dairy nuts,605,40,13,37
+Ginger Chicken Soup,chicken ginger garlic onion vegetables,none,742,40,76,34
+Beef Stir Fry,beef vegetables soy sauce garlic ginger,soy,419,26,18,5
+Simple French Toast,bread eggs milk sugar butter,eggs dairy,599,44,11,37
+Basil Chicken,chicken basil garlic oil,none,365,15,79,20
+Vegetable Soup,vegetables tomato salt herbs,none,622,35,53,20
+Buttered Corn,corn butter salt pepper,dairy,665,40,46,14
+Chili Garlic Noodles,noodles chili garlic soy sauce,soy,548,29,47,8
+Chocolate Milkshake,milk cocoa sugar ice cream,dairy,799,34,18,7
+Tuna Salad,tuna lettuce tomato onion mayo,eggs,362,36,53,35
+Avocado Toast,bread avocado lemon pepper,none,708,12,49,12
+Egg Fried Noodles,noodles eggs vegetables soy sauce,eggs soy,463,25,14,37
+Spicy Lentil Soup,lentils tomato onion garlic cumin,none,301,24,30,40
+BBQ Chicken Wings,chicken bbq sauce spices,none,711,45,59,9
+Creamy Spinach Pasta,pasta spinach cream garlic,dairy,417,10,69,30
+Mango Smoothie,mango yogurt honey,dairy,633,26,54,12
+Chicken Biryani,rice chicken spices onion garlic yogurt,dairy,671,31,43,24
+Vegetable Biryani,rice vegetables spices onion,none,558,29,45,36
+Masala Chips,potatoes chili tomato spice mix,none,768,48,15,5
+Egg Salad,eggs mayo mustard salt,eggs,400,30,30,25
+Garlic Mashed Potatoes,potatoes butter garlic milk,dairy,452,29,42,18
+Beef Pilau,rice beef spices onion garlic,none,466,44,62,16
+Chicken Pilau,rice chicken spices onion garlic,none,771,31,71,27
+Cinnamon Rolls,flour sugar butter milk cinnamon,dairy,644,21,20,5
+Vegetable Pizza,flour vegetables cheese tomato sauce,dairy,386,34,31,34
+Chicken Pizza,flour chicken cheese tomato sauce,dairy,361,37,50,5
+Cheese Sandwich,bread cheese butter,dairy,741,30,52,25
+Grilled Cheese,bread cheese butter,dairy,490,25,37,10
+Peanut Stew,peanuts tomato onion garlic,nuts,557,44,28,39
+Coconut Rice,rice coconut milk salt,none,535,14,47,20
+Chicken Curry,chicken curry powder tomato garlic onion,none,799,30,58,6
+Beef Curry,beef curry powder onion tomato garlic,none,567,17,48,28
+Vegetable Curry,vegetables curry paste coconut milk,none,316,39,38,36
+Creamy Coconut Chicken,chicken coconut milk garlic onion,none,322,6,23,18
+Tomato Cucumber Salad,tomatoes cucumbers lemon salt,none,760,50,20,39
+Garlic Chapati,flour oil garlic salt,none,387,12,22,17
+Butter Chapati,flour butter salt,dairy,364,15,29,18
+Ugali & Sukuma,maize flour greens onion tomato,none,598,37,63,34
+Lentil Stew,lentils carrots onions spices,none,376,10,20,23
+Pumpkin Soup,pumpkin cream garlic onion,dairy,329,10,69,6
+Chicken Wrap,chicken tortilla vegetables mayo,eggs,797,17,29,15
+Veggie Wrap,tortilla vegetables avocado,none,677,38,28,38
+Beef Burger,beef bun lettuce tomato onion mayo,eggs,746,7,39,7
+Chicken Burger,chicken bun lettuce tomato sauce,none,348,14,72,8
+Veggie Burger,vegetables bun lettuce tomato,none,679,36,15,29
+Cheese Omelette,eggs cheese salt pepper,eggs dairy,413,23,38,35
+Mushroom Omelette,eggs mushrooms onion,eggs,769,25,54,32
+Carrot Smoothie,carrot milk ginger honey,dairy,722,35,29,8
+Pineapple Smoothie,pineapple yogurt honey,dairy,366,15,36,17
+Chocolate Chip Cookies,flour sugar butter eggs chocolate,eggs dairy,346,49,20,20
+Oat Cookies,oats flour sugar butter,dairy,549,27,63,22
+Chicken Kebabs,chicken spices onion garlic,none,794,34,15,6
+Beef Kebabs,beef spices onion garlic,none,326,20,49,37
+Veggie Kebabs,vegetables spices,none,479,16,47,36
+Garlic Rice,rice garlic butter,dairy,530,47,23,21
+Chicken Pasta,chicken pasta tomato garlic onion,none,388,10,53,32
+Tuna Pasta,tuna pasta tomato garlic,none,558,35,63,12
+Spaghetti Bolognese,pasta beef tomato onion garlic,none,530,50,74,15
+Carbonara,pasta eggs cheese butter,eggs dairy,688,20,21,16
+Pesto Pasta,pasta basil garlic oil cheese,dairy,594,15,13,39
+Chicken Caesar Salad,chicken lettuce croutons parmesan dressing,dairy eggs,305,29,67,34
+Garden Salad,vegetables lemon oil salt,none,733,18,30,9
+Fruit Salad,mixed fruit honey lemon,none,751,34,72,28
+Chicken Shawarma,chicken spices yogurt garlic,dairy,405,41,48,24
+Beef Shawarma,beef spices garlic onion,none,783,39,12,24
+Vegetable Shawarma,vegetables spices,none,652,40,52,19
+Chicken Nuggets,chicken flour eggs spices,eggs,531,33,45,23
+Fish Fingers,fish flour eggs spices,eggs,358,14,76,35
+Onion Rings,onions flour eggs spices,eggs,356,31,35,19
+Vegetable Spring Rolls,vegetables flour wrappers,none,791,38,71,12
+Chicken Spring Rolls,chicken vegetables wrappers,none,638,14,44,10
+Vegetable Samosa,potatoes peas spices flour,none,381,18,77,11
+Beef Samosa,beef spices flour onion,none,511,10,33,18
+Chicken Samosa,chicken spices flour onion,none,639,18,27,26
+Apple Pie,apples flour sugar butter,dairy,481,49,27,27
+Banana Bread,banana flour sugar eggs butter,eggs dairy,450,23,18,25
+Carrot Cake,carrots flour sugar eggs butter,eggs dairy,740,44,49,37
+Vanilla Cake,flour sugar eggs butter vanilla,eggs dairy,540,15,39,40
+Chocolate Cake,flour sugar cocoa eggs butter,eggs dairy,613,20,75,34
+Chicken Stir Fry,chicken vegetables soy sauce,soy,371,48,15,21
+Egg Curry,eggs tomato onion spice mix,eggs,521,12,43,24
+Fish Curry,fish curry paste coconut milk,none,641,42,75,12
+Coconut Chicken Soup,chicken coconut ginger garlic,none,335,30,50,10
+Vegetable Lasagna,pasta vegetables cheese sauce,dairy,446,46,14,35
+Chicken Lasagna,pasta chicken cheese sauce,dairy,651,49,70,34
+Beef Lasagna,pasta beef cheese sauce,dairy,491,9,15,36
+Garlic Potato Wedges,potatoes garlic oil,none,607,8,35,16
+Chicken Tacos,chicken tortillas lettuce tomato,none,728,13,13,28
+Beef Tacos,beef tortillas lettuce tomato,none,358,35,63,10
+Veggie Tacos,vegetables tortillas,none,686,40,55,36
+Chicken Quesadilla,chicken cheese tortillas,dairy,407,23,13,33
+Cheese Quesadilla,cheese tortillas,dairy,612,42,30,23
+Veggie Quesadilla,vegetables cheese tortillas,dairy,572,42,37,30
+Chicken Noodle Soup,chicken noodles vegetables,none,710,19,37,6
+Beef Noodle Soup,beef noodles vegetables,none,414,48,46,35
+Vegetable Noodle Soup,vegetables noodles,none,428,5,12,31
+Chicken Rice Bowl,chicken rice vegetables,none,494,50,41,8
+Beef Rice Bowl,beef rice vegetables,none,411,37,21,39
+Veggie Rice Bowl,vegetables rice,none,459,14,11,14
+Spicy Chicken Sandwich,chicken chili spices bun,none,386,10,37,5
+Tuna Sandwich,tuna mayo bread lettuce,eggs,411,13,60,40
+Egg Sandwich,eggs mayo bread,eggs,506,15,30,20
+Avocado Chicken Salad,chicken avocado lemon herbs,none,736,43,72,39
+Spicy Bean Stew,beans tomato chili garlic,none,424,18,48,10
+White Bean Soup,beans vegetables garlic,none,390,7,18,18
+Black Bean Soup,black beans onion garlic chili,none,323,6,75,34
+Lentil Dal,lentils turmeric garlic onion,none,322,21,25,6
+Chicken Dal,chicken lentils spices,none,471,11,29,25
+Egg Fried Rice,eggs rice vegetables,eggs,300,21,64,29
+Chicken Fried Rice,chicken rice vegetables soy sauce,soy,583,36,22,15
+Beef Fried Rice,beef rice vegetables soy sauce,soy,649,26,55,18
+Veggie Pasta Salad,pasta vegetables vinaigrette,none,387,25,25,26
+Chicken Pasta Salad,chicken pasta vegetables,none,312,16,72,5
+Tuna Pasta Salad,tuna pasta mayo vegetables,eggs,617,37,35,29
+Garlic Chicken Wings,chicken garlic spices,none,606,6,21,18
+Peri Peri Chicken,chicken chili lemon spices,none,334,44,33,29
+Peri Peri Potatoes,potatoes chili oil,none,552,41,23,36
+Chicken Skewers,chicken spices onion,none,671,26,58,17
+Beef Skewers,beef spices onion,none,583,11,58,11
+Vegetable Skewers,vegetables spices,none,675,18,40,37
+Chicken Meatballs,chicken flour spices eggs,eggs,537,18,23,5
+Beef Meatballs,beef flour spices eggs,eggs,472,39,24,5
+Veggie Meatballs,vegetables flour spices,none,486,8,60,24
+Chicken Soup,chicken vegetables garlic,none,738,50,73,33
+Creamy Mushroom Soup,mushrooms cream garlic onion,dairy,720,7,30,14
+Spicy Tomato Soup,tomato chili garlic onion,none,484,21,20,22
+Garlic Fish,fish garlic lemon pepper,none,396,24,72,23
+Coconut Fish,fish coconut milk spices,none,450,29,77,33
+Chicken Coconut Stew,chicken coconut onions garlic,none,567,29,43,18
+Vegetable Coconut Stew,vegetables coconut garlic,none,796,15,19,15
+Spicy Eggplant Stir Fry,eggplant chili garlic soy sauce,soy,420,11,32,30
+Spicy Scrambled Eggs,eggs milk,eggs dairy,740,35,55,39
+Nutty Protein Shake,milk nuts,dairy nuts,577,9,47,38
+Milk Pancakes,flour eggs,eggs dairy,588,36,57,31
+Cayenne Chicken,chicken,none,546,18,78,13
+Vegetable Omelette,eggs tomato,eggs,528,7,63,34
+Peanut Butter Cookies,flour peanut eggs,eggs dairy,358,45,42,11
+Garlic Butter Chicken,chicken,dairy,756,8,44,28
+Almond Energy Bars,almonds,nuts,583,32,12,36
+Creamy Potato Soup,potatoes cream,dairy,362,29,73,10
+Chili Pepper Stir Fry,vegetables soy,soy,766,19,14,35
+BBQ Pulled Chicken,chicken bbq sauce onion garlic bun,none,595,31,64,29
+Teriyaki Salmon,soy sauce honey garlic,soy,341,8,10,30
+Greek Salad,feta cheese tomatoes cucumbers olives olive oil,dairy,386,49,40,35
+Shrimp Fried Rice,shrimp rice vegetables soy sauce eggs,eggs soy,640,19,76,33
+Turkey Sandwich,turkey bread lettuce tomato mayo,eggs,512,15,26,37
+Strawberry Smoothie,strawberries yogurt honey,dairy,582,14,24,32
+Broccoli Cheddar Soup,broccoli cheese milk butter,dairy,378,15,21,12
+Steak Fajitas,beef peppers onions tortillas,none,570,35,38,30
+Veggie Burrito,rice beans vegetables tortillas,none,526,6,78,40
+Buffalo Chicken Wrap,chicken buffalo sauce lettuce tortilla,dairy,322,10,36,17
+Chicken Alfredo Pasta,chicken pasta cream parmesan,dairy,705,28,59,20
+Spinach Artichoke Dip,spinach artichoke cream cheese,dairy,525,7,20,21
+Baked Salmon,salmon lemon garlic herbs,none,571,22,73,13
+Mushroom Risotto,rice mushrooms parmesan butter,dairy,733,8,49,21
+Tofu Stir Fry,tofu vegetables soy sauce,soy,384,25,32,20
+Chicken Parmesan,chicken cheese tomato sauce breadcrumbs,dairy eggs,635,35,40,14
+Blueberry Muffins,flour sugar eggs milk blueberries,eggs dairy,426,31,52,27
+Turkey Meatballs,turkey breadcrumbs eggs spices,eggs,765,26,13,7
+Quinoa Salad,quinoa vegetables lemon olive oil,none,363,15,21,6
+Peanut Noodle,noodles peanut sauce soy sauce,nuts soy,378,45,43,11
